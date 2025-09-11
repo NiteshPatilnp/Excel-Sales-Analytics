@@ -22,15 +22,15 @@ It focuses on both **Sales Analytics** (customer, product, and market performanc
 ## 📊 Sales Report
 
 **Project Objectives:**
-- Generate [Customer Performance Report](./Customer%20Performance%20Report.pdf)  
-- Compare [Market Performance vs. Sales Targets](./Market%20Performance%20vs%20Target%20Report.pdf)  
+- Generate [Customer Performance Report](https://github.com/NiteshPatilnp/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)  
+- Compare [Market Performance vs. Sales Targets](https://github.com/NiteshPatilnp/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)  
 
 **Key Business Insights:**
-- 🔟 [Top 10 products by % increase in net sales (2020 vs 2021)](./Top%2010%20Products.pdf)  
-- 📈 [Division-wise net sales with growth % (2020 vs 2021)](./Division.pdf)  
-- 🔝 [Top 5 & bottom 5 products by quantity sold](./Top%20and%20bottom%20products%20-%20QTY.pdf)  
-- 🆕 [New products launched in 2021 (0% growth in “21 vs 20” column)](./New%20Product%20Added%20in%202021.pdf)  
-- 🌍 [Top 5 countries by net sales in 2021](./Top%205%20Countries.pdf)  
+- 🔟 [Top 10 products by % increase in net sales (2020 vs 2021)](https://github.com/NiteshPatilnp/Excel-Sales-Analytics/blob/main/Top10%20Products%20by%20%25%20increase.pdf)  
+- 📈 [Division-wise net sales with growth % (2020 vs 2021)](https://github.com/NiteshPatilnp/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)  
+- 🔝 [Top 5 & bottom 5 products by quantity sold](https://github.com/NiteshPatilnp/Excel-Sales-Analytics/blob/main/Top5-Bottom5%20product%20by%20quantity%20sold.pdf)  
+- 🆕 [New products launched in 2021 (0% growth in “21 vs 20” column)](https://github.com/NiteshPatilnp/Excel-Sales-Analytics/blob/main/New%20Products%20-%202021.pdf)  
+- 🌍 [Top 5 countries by net sales in 2021](https://github.com/NiteshPatilnp/Excel-Sales-Analytics/blob/main/Top5%20Country%20-%202021.pdf)  
 
 **Purpose of Sales Analytics:**  
 Track performance, identify opportunities, and optimize customer/product/market strategies.
@@ -45,9 +45,9 @@ Track performance, identify opportunities, and optimize customer/product/market 
 ## 💰 Finance Report
 
 **Project Objectives:**
-- Create P&L reports by [Fiscal Year](./P%26L%20Statement%20by%20Fiscal%20Year.pdf)  
-- Create P&L reports by [Months](./P%26L%20Statement%20by%20Months.pdf)  
-- Create P&L reports by [Markets](./P%26L%20Statement%20by%20Markets.pdf)  
+- Create P&L reports by [Fiscal Year](https://github.com/NiteshPatilnp/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)  
+- Create P&L reports by [Months](https://github.com/NiteshPatilnp/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)  
+- Create P&L reports by [Markets](https://github.com/NiteshPatilnp/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)  
 
 **P&L Breakdown:**
 - **Revenue (Net Sales)** → Sales by product/market  
