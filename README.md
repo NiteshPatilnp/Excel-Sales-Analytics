@@ -1,4 +1,4 @@
-# Excel: Sales and Finance Analytics
+# Excel: Sales Analytics
 
 **Empowering data-driven decision making through insightful sales analytics delivered with Excel, Power Query, Power Pivot & DAX**
 
